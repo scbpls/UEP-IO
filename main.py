@@ -1,5 +1,3 @@
-from openai import OpenAI
-
 def main():
     strawberry_kcal = 0.33
     daily_kcal = 2250
