@@ -11,3 +11,5 @@ Uniwersytet Ekonomiczny w Poznaniu
 3. Ulubiony serial - Stranger Things
 
 4. Ulubiony język programowania - JavaScript
+
+5. Ulubiony kolor - chyba niebieski
