@@ -14,7 +14,6 @@ def main():
                 liczba truskawek w gramach zaokragląna do dwóch miejsc po przecinku
                 """},
             ], 
-            #UWAGA - o3 nie przyjmuje temperature i max_tokens
             temperature=0.0,
             max_tokens=10
         )
