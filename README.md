@@ -25,4 +25,5 @@ przeciętne dzienne zapotrzebowanie kcal dla człowieka, to 2250 kcal,
 a cała energia pochodzi wyłącznie z truskawek – nie ma innych źródeł kalorii.
 
 Dane wejściowe: Brak (przyjmujemy stałe wartości podane powyżej w specyfikacji)
+
 Dane wyjściowe: Zmiennoprzecinkowa liczba truskawek w gramach zaokragląna do dwóch miejsc po przecinku
